@@ -5,5 +5,5 @@ class Recipes < ActiveRecord::Migration
       t.string :ingredients
       t.string :cook_time
     end
-end
+  end
 end
